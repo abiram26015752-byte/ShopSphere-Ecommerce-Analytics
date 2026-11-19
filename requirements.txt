@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+Faker>=20.0
+mysql-connector-python>=8.2
+python-dotenv>=1.0
+pymongo>=4.6
+jupyter>=1.0
