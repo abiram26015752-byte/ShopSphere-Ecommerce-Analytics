@@ -1,9 +1,0 @@
-.env
-.venv/
-venv/
-__pycache__/
-*.py[cod]
-.ipynb_checkpoints/
-.DS_Store
-results/sql_results/*
-!results/sql_results/.gitkeep
